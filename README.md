@@ -28,6 +28,6 @@
 
 
 
-![alt text](https://github.com/AyeshaMalikAyesha/Ayeshacs/blob/main/hr.png?raw=true)
-![alt text](https://github.com/AyeshaMalikAyesha/Ayeshacs/blob/main/lc.png?raw=true)
+![alt text](https://github.com/AyeshaMalikAyesha/AyeshaMalikAyesha/blob/main/hr.png?raw=true)
+![alt text](https://github.com/AyeshaMalikAyesha/AyeshaMalikAyesha/blob/main/lc.png?raw=true)
                 
