@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I am Ayesha</h1>
 <h1 align="center">I'm a developer & Computer Scientist</h1>
 <h1 align="center">I am a Remote Developer & Computer Scientist</h1>
 
