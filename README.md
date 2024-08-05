@@ -1,8 +1,8 @@
 ## Hi there 👋
-<h1 align="center">Material Bread</h1>
-# I am a Remote Developer & Computer Scientist
+<h1 align="center">I'm a developer & Computer Scientist</h1>
+<h1 align="center">I am a Remote Developer & Computer Scientist</h1>
 
-# 🙋‍♂️ About Me
+**🙋‍♂️ About Me**
 
 
 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
@@ -24,7 +24,7 @@
 👨‍💻 Check My! CodingProfile
 
 
-❤️ I'm Code on (DSA)
+**❤️ I'm Code on (DSA)**
 
 
 
