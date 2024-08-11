@@ -35,7 +35,7 @@
 
 <h2>Badges @Leetcode</h2>
 
-![badges](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)
+![badges](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif width=50px,height=50px)
 ![badges](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif)
 ![badges](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 
