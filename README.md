@@ -23,7 +23,7 @@
 👨‍💻 Check My! CodingProfile
 
 
-**❤️ Coder on (DSA)**
+<h2>❤️ Coder on (DSA)</h2>
 
 
 
@@ -33,8 +33,10 @@
 [View My Portfolio](https://ayeshacs.netlify.app)
 
 
-**Badges @Leetcode**
+<h2>Badges @Leetcode</h2>
 
 ![badges](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)
+![badges](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif)
+![badges](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 
                 
