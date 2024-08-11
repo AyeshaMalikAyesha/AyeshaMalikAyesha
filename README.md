@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋 I am Ayesha</h1>
 <h1 align="center">I'm a developer & Computer Scientist</h1>
 
+[View My Portfolio](https://ayeshacs.netlify.app)
+
+
 **🙋‍♂️ About Me**
 
 
@@ -30,7 +33,6 @@
 ![hackerrank](https://github.com/AyeshaMalikAyesha/AyeshaMalikAyesha/blob/main/hr.png?raw=true)
 ![leetcode](https://github.com/AyeshaMalikAyesha/AyeshaMalikAyesha/blob/main/lc.png?raw=true)
 
-[View My Portfolio](https://ayeshacs.netlify.app)
 
 
 <h2>Badges @Leetcode</h2>
