@@ -38,5 +38,6 @@
 <h2>Badges @Leetcode</h2>
 
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="50" height="50"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50" height="50"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50" height="50">
+<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width='50' height='50'>
 
                 
